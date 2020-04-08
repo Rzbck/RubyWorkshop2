@@ -23,7 +23,7 @@ while step != 10
             puts "You win the game ON STEP #{step} ! CONGRATULATION !!!"
             break
         end
-        
+        puts "+"*50 
         } 
     if turn == max_turn 
         puts "You are a Fucking Looser !"
